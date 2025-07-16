@@ -1,5 +1,3 @@
-<!-- JS 작성 -->
-
 <script>
   import Main from "./pages/Main.svelte";
   import Signup from "./pages/Signup.svelte";
